@@ -1,0 +1,11 @@
+PyMuPDF
+python-docx
+Pillow
+pytesseract
+pydantic
+
+spacy
+transformers
+torch
+sentence-transformers
+

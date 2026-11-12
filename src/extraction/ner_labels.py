@@ -1,0 +1,62 @@
+RESUME_NER_LABELS = [
+    "PERSON",
+    "EMAIL",
+    "PHONE",
+    "LOCATION",
+    "ADDRESS",
+    "LINKEDIN",
+    "GITHUB",
+    "PORTFOLIO",
+
+    "COMPANY",
+    "JOB_TITLE",
+    "EMPLOYMENT_TYPE",
+    "WORK_LOCATION",
+    "YEARS_OF_EXPERIENCE",
+    "DURATION",
+
+    "SKILL",
+    "PROGRAMMING_LANGUAGE",
+    "FRAMEWORK",
+    "LIBRARY",
+    "DATABASE",
+    "CLOUD_PLATFORM",
+    "TOOL",
+    "TECHNOLOGY",
+    "OPERATING_SYSTEM",
+    "VERSION",
+
+    "DEGREE",
+    "FIELD_OF_STUDY",
+    "INSTITUTION",
+    "ACADEMIC_SCORE",
+    "GRADE",
+
+    "PROJECT",
+
+    "CERTIFICATION",
+    "CERTIFICATION_ISSUER",
+    "AWARD",
+    "ACHIEVEMENT",
+    "HONOR",
+
+    "PUBLICATION",
+    "RESEARCH",
+    "THESIS",
+    "CONFERENCE",
+    "JOURNAL",
+
+    "INDUSTRY",
+    "DOMAIN",
+    "BUSINESS_DOMAIN",
+
+    "LANGUAGE",
+    "LANGUAGE_PROFICIENCY",
+
+    "RESPONSIBILITY",
+    "TASK",
+    "DELIVERABLE",
+    "OUTCOME",
+
+    "DATE",
+]
