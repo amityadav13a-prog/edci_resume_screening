@@ -333,3 +333,10 @@ settings.local.py
 *.old
 *.orig
 *.backup
+# ==========================================================
+# NER DATASET
+# ==========================================================
+
+data/ner/training_data.json
+data/ner/test_data.json
+data/ner/annotations.json
